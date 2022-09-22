@@ -1,0 +1,111 @@
+{
+    "modelName": "New model",
+    "collections": [
+        {
+            "collectionName": "New table",
+            "type": "object",
+            "properties": [],
+            "definitions": {
+                "type": "definitions",
+                "properties": [],
+                "GUID": "d0c4f52e-c406-4553-96a8-1a0f584dd683"
+            },
+            "isActivated": true,
+            "additionalProperties": false,
+            "formatTypeOptions": {
+                "NULL_IF": [
+                    {
+                        "NULL_IF_item": "\\N",
+                        "GUID": "945b892d-0854-4a3d-9849-c86fc97b44d6"
+                    }
+                ],
+                "GUID": "5aac5366-c42c-4156-a760-98155599d700"
+            },
+            "external": false,
+            "GUID": "71da7b8f-9a22-4e73-821b-bcc0e73000d1"
+        }
+    ],
+    "buckets": [],
+    "views": [],
+    "relationships": [],
+    "users": [],
+    "diagramViews": [],
+    "idToNameHashTable": {
+        "71da7b8f-9a22-4e73-821b-bcc0e73000d1": "New table"
+    },
+    "definitions": {
+        "type": "definitions",
+        "properties": [],
+        "GUID": "39dd19b4-b4f3-4e0f-9382-bfeee48ef431"
+    },
+    "polyglotDefinitions": {
+        "type": "polyglotDefinitions",
+        "properties": [],
+        "GUID": "fd5aff8f-a9d1-4db5-964b-b0607a27f0bf"
+    },
+    "externalDefinitions": {
+        "type": "externalDefinitions",
+        "properties": [],
+        "GUID": "42b2d67a-a98c-4c41-9bd7-f14a08dee253"
+    },
+    "sources": [],
+    "decorativeSymbols": [],
+    "dbVendor": "Snowflake",
+    "appTarget": "Snowflake",
+    "creationTS": "2022-09-22T14:04:56.360Z",
+    "GUID": "b282cce6-4899-4bc7-b10b-9d30ee69311a",
+    "isLineageEnabled": false,
+    "lastModifTS": "2022-09-22T14:04:57.801Z",
+    "persistenceSchemaVersion": "6",
+    "isCreatedByPlugin": true,
+    "pluginInformation": {
+        "pluginName": "Snowflake",
+        "pluginVersion": "0.1.59",
+        "pluginEngineVersion": "1.0.0"
+    },
+    "applicationInformation": {
+        "version": "6.5.1"
+    },
+    "settings": {
+        "centralPane": {
+            "dbLevel": {
+                "erd": [
+                    {
+                        "GUID": "71da7b8f-9a22-4e73-821b-bcc0e73000d1",
+                        "x": 253,
+                        "y": 370,
+                        "width": 240,
+                        "height": 100,
+                        "color": {}
+                    }
+                ],
+                "buckets": [],
+                "collapsedNodes": [],
+                "activeRelationship": "",
+                "activeRelationshipFields": {
+                    "childField": [],
+                    "parentField": []
+                },
+                "selectedCollections": [],
+                "displayColorPicker": false,
+                "graphView": {
+                    "erd": [],
+                    "buckets": [],
+                    "decorativeSymbols": [],
+                    "forceLayout": true,
+                    "defaultLinkLength": 300
+                },
+                "diagramViews": [],
+                "decorativeSymbols": [],
+                "nestedCollectionsLayout": "horizontal",
+                "options": []
+            },
+            "collectionLevel": {},
+            "changed": false
+        },
+        "dtDiagram": {
+            "collapsedNodes": [],
+            "shouldDistributeCollections": false
+        }
+    }
+}
