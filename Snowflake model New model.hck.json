@@ -8,7 +8,7 @@
             "definitions": {
                 "type": "definitions",
                 "properties": [],
-                "GUID": "d0c4f52e-c406-4553-96a8-1a0f584dd683"
+                "GUID": "f350c676-db31-4f29-a385-d647c1d9bb99"
             },
             "isActivated": true,
             "additionalProperties": false,
@@ -16,13 +16,13 @@
                 "NULL_IF": [
                     {
                         "NULL_IF_item": "\\N",
-                        "GUID": "945b892d-0854-4a3d-9849-c86fc97b44d6"
+                        "GUID": "ea0eb8c6-560c-4630-b3e4-c11b619d4608"
                     }
                 ],
-                "GUID": "5aac5366-c42c-4156-a760-98155599d700"
+                "GUID": "792d63b9-59ad-472e-bc49-bb95499b45b4"
             },
             "external": false,
-            "GUID": "71da7b8f-9a22-4e73-821b-bcc0e73000d1"
+            "GUID": "329756bc-1cf8-4cbe-aa1f-2da8140651ee"
         }
     ],
     "buckets": [],
@@ -31,31 +31,31 @@
     "users": [],
     "diagramViews": [],
     "idToNameHashTable": {
-        "71da7b8f-9a22-4e73-821b-bcc0e73000d1": "New table"
+        "329756bc-1cf8-4cbe-aa1f-2da8140651ee": "New table"
     },
     "definitions": {
         "type": "definitions",
         "properties": [],
-        "GUID": "39dd19b4-b4f3-4e0f-9382-bfeee48ef431"
+        "GUID": "95ed6e40-b810-40d7-8b3d-d18dd87e7d83"
     },
     "polyglotDefinitions": {
         "type": "polyglotDefinitions",
         "properties": [],
-        "GUID": "fd5aff8f-a9d1-4db5-964b-b0607a27f0bf"
+        "GUID": "bd923d7a-9961-4fa4-9d3a-96386dd68cad"
     },
     "externalDefinitions": {
         "type": "externalDefinitions",
         "properties": [],
-        "GUID": "42b2d67a-a98c-4c41-9bd7-f14a08dee253"
+        "GUID": "4dcabfea-bfbf-4b25-8969-c08288c02769"
     },
     "sources": [],
     "decorativeSymbols": [],
     "dbVendor": "Snowflake",
     "appTarget": "Snowflake",
-    "creationTS": "2022-09-22T14:04:56.360Z",
-    "GUID": "b282cce6-4899-4bc7-b10b-9d30ee69311a",
+    "creationTS": "2022-09-22T14:05:32.579Z",
+    "GUID": "0ff08e3f-fbab-42fa-8f43-f590c5917dd9",
     "isLineageEnabled": false,
-    "lastModifTS": "2022-09-22T14:04:57.801Z",
+    "lastModifTS": "2022-09-22T14:05:35.097Z",
     "persistenceSchemaVersion": "6",
     "isCreatedByPlugin": true,
     "pluginInformation": {
@@ -71,9 +71,9 @@
             "dbLevel": {
                 "erd": [
                     {
-                        "GUID": "71da7b8f-9a22-4e73-821b-bcc0e73000d1",
-                        "x": 253,
-                        "y": 370,
+                        "GUID": "329756bc-1cf8-4cbe-aa1f-2da8140651ee",
+                        "x": 191,
+                        "y": 263,
                         "width": 240,
                         "height": 100,
                         "color": {}
